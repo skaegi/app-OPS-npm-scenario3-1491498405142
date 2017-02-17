@@ -1,0 +1,10 @@
+{
+  "name": "ops-simple-app",
+  "version": "1.1.3",
+  "scripts": {
+    "start": "cd node_modules/otc-simple-app; node index"
+  },
+  "dependencies": {
+    "otc-simple-app": "1.1.3"
+  }
+}
